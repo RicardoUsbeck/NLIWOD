@@ -188,6 +188,7 @@ DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragr
 * https://t.co/xMUeh2lNHT?amp=1
 * https://arxiv.org/abs/2011.01060
 * https://allenai.org/data/break
+* https://developer.nvidia.com/blog/training-a-text2sparql-model-with-mk-squit-and-nemo/?ncid=so-nvsh-66580#cid=dl13_so-nvsh_en-us
 
 ## Focus
 This collection aims at becoming a central focus point of question answering research. Using deeper analysis (sentiment, clustering, topic) of a questions will help to understand arising difficulties within QA systems. Moreover, this collection will help also semantic search, e.g. keyword search, phrase search, in later stages.
